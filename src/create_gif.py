@@ -68,7 +68,7 @@ def main():
     giffy(file_names = ['1.png','3.png','2.png','4.png','5.png'])
 
     print(myMessage)
-    # print(gif_size) 
+    # print(gif_size)
 
 if __name__ == "__main__":
     main()
