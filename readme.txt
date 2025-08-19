@@ -1,6 +1,8 @@
 # gifFy Project
 
-This project provides tools for working with GIF images using Python.
+gifFy is a Python-based toolkit for creating and manipulating GIF images. 
+Easily generate personalized GIFs by combining up to 10 images, 
+with a simple command-line workflow.
 
 ## Requirements
 
@@ -11,11 +13,11 @@ This project provides tools for working with GIF images using Python.
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone https://github.com/arthurmakumbi/gifFy.git
     cd gifFy
     ```
 
-2. (Optional) Create and activate a virtual environment:
+2. *Optional: Create and activate a virtual environment:*
     ```
     python3 -m venv venv
     source venv/bin/activate
