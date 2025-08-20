@@ -35,7 +35,7 @@ Run the main script:
 python3 create_gif.py 
 
 you can also add up to 10 images in the same folder create_gif.py file is in 
-to create your own personalized gif
+to create your own personalized gif 
 
 ## Extension ideas
 
